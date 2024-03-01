@@ -1,0 +1,26 @@
+body{
+    background-color: gainsboro;
+}
+.offer{
+    color: black;
+    background-color: gainsboro;
+}
+
+#heading{
+    color: black;
+    background-color: gainsboro;
+}
+footer {
+    color: white;
+    background-color: black;
+}
+
+#sitemap{
+    color: white;
+}
+#free{
+    color: blue;
+}
+#offer{
+    color: white;
+}
